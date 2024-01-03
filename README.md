@@ -1,9 +1,5 @@
 ### Hi there 👋
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ioswei&show_icons=true?&hide_title=true" width="400px"  />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioswei"/>
-
-
-
 
 - 👋 **「欢迎你呀」** 欢迎来我的Github，很荣幸有缘与你相遇！
 
@@ -50,6 +46,8 @@ Development language: Object-C/Swift /SwiftUI
 + Personal wechat: Orz_Onlylove (Welcome to add micro communication, hard to note your information)
 
 + the nuggets homepage: https://juejin.cn/user/1421041942671774 🏆 Unknown author
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ioswei&show_icons=true?&hide_title=true" width="400px"  />
 
 ----
 <div align="center">
