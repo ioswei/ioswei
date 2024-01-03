@@ -51,5 +51,5 @@ Development language: Object-C/Swift /SwiftUI
 
 ----
 <div align="center">
-<img src="https://user-images.githubusercontent.com/10896186/178912947-50d44e55-4f40-4289-b409-c1bf0ba93ebe.png" width="200px" />
+<img src="https://github.com/ioswei/ioswei/blob/main/qrcode_for_gh_65f8f4da2da6_344.jpg" width="200px" />
 </div>
