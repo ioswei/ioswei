@@ -7,7 +7,7 @@
 
 - 👀 **「个人介绍」** iOS 开发者
 
-    开发语言：Object-C/Swift /SwiftUI
+    + 开发语言：Object-C/Swift /SwiftUI
   
     + 做过ToB业务：股票配资、旅馆住宿、点菜系统等
     
@@ -52,4 +52,5 @@ Development language: Object-C/Swift /SwiftUI
 ----
 <div align="center">
 <img src="https://github.com/ioswei/ioswei/blob/main/qrcode_for_gh_65f8f4da2da6_344.jpg" width="200px" />
+iOS研究院
 </div>
