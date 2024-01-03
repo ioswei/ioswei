@@ -52,5 +52,5 @@ Development language: Object-C/Swift /SwiftUI
 ----
 <div align="center">
 <img src="https://github.com/ioswei/ioswei/blob/main/qrcode_for_gh_65f8f4da2da6_344.jpg" width="200px" />
-iOS研究院
+<text>iOS研究院</text>
 </div>
