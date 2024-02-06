@@ -47,9 +47,6 @@ Development language: Object-C/Swift /SwiftUI
 
 + the nuggets homepage: https://juejin.cn/user/1421041942671774 🏆 Unknown author
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ioswei&show_icons=true?&hide_title=true" width="400px"  />
-
-----
 <div align="center">
 <img src="https://github.com/ioswei/ioswei/blob/main/qrcode_for_gh_65f8f4da2da6_344.jpg" width="200px" />
 </div>
